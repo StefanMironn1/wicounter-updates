@@ -1,7 +1,7 @@
 {
-  "versionName": "1.0.4",
-  "versionCode": 5,
-  "installerUrl": "https://github.com/StefanMironn1/wicounter-updates/releases/download/windows__1.0.4/WiCounterSetup-1.0.4.exe",
+  "versionName": "1.0.5",
+  "versionCode": 6,
+  "installerUrl": "https://github.com/StefanMironn1/wicounter-updates/releases/download/windows__1.0.5/WiCounterSetup-1.0.5.exe",
   "mandatory": false,
   "notes": "Current WiCounter Windows version."
 }
